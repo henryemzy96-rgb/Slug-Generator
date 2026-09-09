@@ -1,0 +1,11 @@
+{
+  "name": "slug-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch api/bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
